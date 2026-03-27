@@ -1,0 +1,5 @@
+Para acessar o índice/valor de um dicionário, usa-se esta sintaxe a seguir:
+my_dict['nome'] - Acessando a chave do dicionário com as polchetes e aspas, retorna o valor que foi armazenado nessa chave.
+
+Método 'get' de 'buscar':
+my_dict.get('nome') - Esse método 'get' é outra forma de acessar um índice/valor dentro de um dicionário 
