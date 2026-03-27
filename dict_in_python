@@ -6,5 +6,3 @@ my_dict = {
   'nome': 'Breno'
 }
 
-Para acessar o índice/valor de um dicionário, usa-se esta sintaxe a seguir:
-my_dict['nome'] - Acessando a chave do dicionário com as aspas, retorna o valor que foi armazenado nessa chave.
