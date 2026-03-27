@@ -1,2 +1,0 @@
-Método 'get' de 'buscar':
-my_dict.get('nome') - Esse método 'get' é outra forma de acessar um índice/valor dentro de um dicionário 
