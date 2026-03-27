@@ -1,0 +1,7 @@
+my_dict.pop('nome') - O método pop de um dicionário remove o valor exposto dentro dos parênteses juntamente com as aspas em volta do valor.
+
+my_dict.kays() - Método que lista todas as chaves de acordo com o nome dado a variável do dicionário.
+
+my_dict.value() - Método que lista todos os valores de acordo com o nome dado a variável do dicionário.
+
+my_dict.clear() - Método que limpa todas as chaves e valores do dicionário.
