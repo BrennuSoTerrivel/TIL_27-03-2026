@@ -1,3 +1,7 @@
+my_dict['nome'] - Acessando a chave do dicionário com polchetes e aspas, retorna o valor que foi armazenado nessa chave.
+
+my_dict.get('nome') - Método 'get' de 'buscar' é outra forma de acessar um índice/valor dentro de um dicionário 
+
 my_dict.pop('nome') - O método pop de um dicionário remove o valor exposto dentro dos parênteses juntamente com as aspas em volta do valor.
 
 my_dict.kays() - Método que lista todas as chaves de acordo com o nome dado a variável do dicionário.
