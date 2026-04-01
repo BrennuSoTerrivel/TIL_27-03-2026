@@ -1,8 +1,0 @@
-Em um dicionário contém atributos como chave e valor.
-Exemplo:
-my_dict = {
-  'chave': 'valor'
- |----------------|
-  'nome': 'Breno'
-}
-
